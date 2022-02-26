@@ -1,0 +1,195 @@
+152.57.20.176 POST /api/logout 2020-10-10T11:53:49,638Z  INFO --- [http-nio-36714-exec-7] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=0T8jELnNMH
+152.57.20.176 GET /api/items 2020-10-10T11:53:44,248Z  INFO --- [http-nio-36714-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=0T8jELnNMH
+152.57.20.176 GET /api/items 2020-10-10T11:53:43,427Z  INFO --- [http-nio-36714-exec-2] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=0T8jELnNMH
+152.57.20.176 GET /api/items 2020-10-10T11:53:42,418Z  INFO --- [http-nio-36714-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=0T8jELnNMH
+152.57.20.176 POST /api/items/income 2020-10-10T11:53:21,414Z  INFO --- [http-nio-36714-exec-1] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=FMtOa467xQ userId=0T8jELnNMH
+152.57.20.176 POST /api/items/expense 2020-10-10T11:53:02,344Z  INFO --- [http-nio-36714-exec-8] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=Q306oH2buF userId=0T8jELnNMH
+152.57.20.176 GET /api/items 2020-10-10T11:52:30,830Z  INFO --- [http-nio-36714-exec-5] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=0T8jELnNMH
+152.57.20.176 POST /api/login 2020-10-10T11:52:29,681Z  INFO --- [http-nio-36714-exec-2] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=0T8jELnNMH
+152.57.20.176 GET /api/email-verification 2020-10-10T11:51:57,108Z ERROR --- [http-nio-36714-exec-1] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJiaGFyYXRiZWhhcmVAZ21haWwuY29tIiwiZXhwIjoxNjAzMTk0MjUwLCJpYXQiOjE2MDIzMzAyNTB9.svdUNT6bgtc1yL6s-9P_O03D_NhFKlHz7RMzC8vgoMQ
+66.102.8.32 GET /api/email-verification 2020-10-10T11:51:54,243Z ERROR --- [http-nio-36714-exec-10] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJiaGFyYXRiZWhhcmVAZ21haWwuY29tIiwiZXhwIjoxNjAzMTk0MjUwLCJpYXQiOjE2MDIzMzAyNTB9.svdUNT6bgtc1yL6s-9P_O03D_NhFKlHz7RMzC8vgoMQ
+66.102.8.43 GET /api/email-verification 2020-10-10T11:51:54,177Z  INFO --- [http-nio-36714-exec-9] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=0T8jELnNMH
+152.57.20.176 POST /api/register 2020-10-10T11:44:10,936Z  INFO --- [http-nio-36714-exec-2] c.b.m.service.impl.AuthServiceImpl       : UserRegister -- create.user -- userId=0T8jELnNMH
+49.35.89.5 GET /api/items 2020-10-10T10:15:00,908Z  INFO --- [http-nio-21561-exec-8] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+49.35.89.5 GET /api/items 2020-10-10T10:14:52,533Z  INFO --- [http-nio-21561-exec-7] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+49.35.89.5 POST /api/login 2020-10-10T10:14:51,257Z  INFO --- [http-nio-21561-exec-4] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=nA6QotN9tX
+1.38.81.2 GET /api/visit-github 2020-10-10T05:32:07,256Z  INFO --- [http-nio-36988-exec-7] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+1.38.81.2 GET /api/items 2020-10-10T05:29:36,880Z  INFO --- [http-nio-36988-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:34,612Z  INFO --- [http-nio-36988-exec-2] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:29,670Z  INFO --- [http-nio-36988-exec-1] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:25,998Z  INFO --- [http-nio-36988-exec-9] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:23,332Z  INFO --- [http-nio-36988-exec-8] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:15,929Z  INFO --- [http-nio-36988-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:29:10,266Z  INFO --- [http-nio-36988-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:28:13,891Z  INFO --- [http-nio-36988-exec-1] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 POST /api/items/income 2020-10-10T05:26:36,277Z  INFO --- [http-nio-36988-exec-9] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=JYeekurKLo userId=RQzSdtAM5T
+1.38.81.2 POST /api/items/expense 2020-10-10T05:25:58,012Z  INFO --- [http-nio-36988-exec-6] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=Y6ZfBAThlx userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:24:46,589Z  INFO --- [http-nio-36988-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 GET /api/items 2020-10-10T05:18:32,330Z  INFO --- [http-nio-36988-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=RQzSdtAM5T
+1.38.81.2 POST /api/login 2020-10-10T05:18:31,422Z  INFO --- [http-nio-36988-exec-2] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=RQzSdtAM5T
+66.102.8.56 GET /api/email-verification 2020-10-10T05:17:45,695Z ERROR --- [http-nio-36988-exec-8] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJrYWxwaXQuc2hhaDE2ODhAZ21haWwuY29tIiwiZXhwIjoxNjAzMTcxMDEzLCJpYXQiOjE2MDIzMDcwMTN9.k74rPKu795-hSgundV_ny9IeG7VFoU8QYm-1Q2vcLNc
+66.102.8.45 GET /api/email-verification 2020-10-10T05:17:45,085Z ERROR --- [http-nio-36988-exec-7] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJrYWxwaXQuc2hhaDE2ODhAZ21haWwuY29tIiwiZXhwIjoxNjAzMTcxMDEzLCJpYXQiOjE2MDIzMDcwMTN9.k74rPKu795-hSgundV_ny9IeG7VFoU8QYm-1Q2vcLNc
+1.38.81.2 GET /api/email-verification 2020-10-10T05:17:41,980Z  INFO --- [http-nio-36988-exec-6] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=RQzSdtAM5T
+1.38.81.2 POST /api/register 2020-10-10T05:16:54,009Z  INFO --- [http-nio-36988-exec-5] c.b.m.service.impl.AuthServiceImpl       : UserRegister -- create.user -- userId=RQzSdtAM5T
+152.57.111.121 GET /api/items 2020-10-07T07:36:28,656Z  INFO --- [http-nio-27921-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=iL4ejBrsNd
+152.57.111.121 POST /api/login 2020-10-07T07:36:27,485Z  INFO --- [http-nio-27921-exec-2] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=iL4ejBrsNd
+49.35.196.180 POST /api/logout 2020-10-07T07:21:07,581Z  INFO --- [http-nio-27921-exec-2] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=iL4ejBrsNd
+49.35.196.180 POST /api/items/expense 2020-10-07T07:19:37,560Z  INFO --- [http-nio-27921-exec-10] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=wb20K8Upzl userId=iL4ejBrsNd
+49.35.196.180 GET /api/items 2020-10-07T07:19:17,009Z  INFO --- [http-nio-27921-exec-7] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=iL4ejBrsNd
+49.35.196.180 POST /api/items/income 2020-10-07T07:19:07,952Z  INFO --- [http-nio-27921-exec-5] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=ycdMJ4RgyY userId=iL4ejBrsNd
+66.102.8.177 GET /api/email-verification 2020-10-07T07:18:52,050Z ERROR --- [http-nio-27921-exec-3] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJrYXJ0aWtleWEucmFnaGF2Z3JvdXBAZ21haWwuY29tIiwiZXhwIjoxNjAyOTE5MDU4LCJpYXQiOjE2MDIwNTUwNTh9.xvi4oE5xcDpcBfuYjV9nWTxdc8kqmsiLxL0D8WKuHwY
+66.102.8.187 GET /api/email-verification 2020-10-07T07:18:52,006Z ERROR --- [http-nio-27921-exec-2] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJrYXJ0aWtleWEucmFnaGF2Z3JvdXBAZ21haWwuY29tIiwiZXhwIjoxNjAyOTE5MDU4LCJpYXQiOjE2MDIwNTUwNTh9.xvi4oE5xcDpcBfuYjV9nWTxdc8kqmsiLxL0D8WKuHwY
+49.35.196.180 GET /api/items 2020-10-07T07:18:42,157Z  INFO --- [http-nio-27921-exec-1] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=iL4ejBrsNd
+49.35.196.180 POST /api/login 2020-10-07T07:18:41,158Z  INFO --- [http-nio-27921-exec-9] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=iL4ejBrsNd
+49.35.196.180 GET /api/email-verification 2020-10-07T07:18:36,614Z  INFO --- [http-nio-27921-exec-7] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=iL4ejBrsNd
+49.35.196.180 POST /api/login 2020-10-07T07:18:05,484Z ERROR --- [http-nio-27921-exec-6] c.b.m.e.handler.AppExceptionHandler      : EmailNotVerifiedException -- email.not.verified -- email=kartikeya.raghavgroup@gmail.com userId=iL4ejBrsNd
+49.35.196.180 POST /api/register 2020-10-07T07:17:39,196Z  INFO --- [http-nio-27921-exec-4] c.b.m.service.impl.AuthServiceImpl       : UserRegister -- create.user -- userId=iL4ejBrsNd
+152.57.230.59 POST /api/request-password-reset 2020-10-06T06:46:34,424Z  INFO --- [http-nio-51778-exec-8] c.b.m.ui.controller.AuthController       : RequestPasswordReset -- request.pwd.rst -- userId=nA6QotN9tX
+152.57.230.59 POST /api/logout 2020-10-06T06:46:19,679Z  INFO --- [http-nio-51778-exec-5] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=nA6QotN9tX
+152.57.230.59 GET /api/items 2020-10-06T06:46:15,607Z  INFO --- [http-nio-51778-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 GET /api/items 2020-10-05T15:55:23,602Z  INFO --- [http-nio-11709-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+106.210.246.82 POST /api/items/expense 2020-09-30T07:23:12,647Z  INFO --- [http-nio-56269-exec-5] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=L0XCQdQcC8 userId=ojCTCbi947
+106.210.246.82 POST /api/items/expense 2020-09-30T07:22:44,827Z  INFO --- [http-nio-56269-exec-3] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=nj0xyZVp5k userId=ojCTCbi947
+106.210.246.82 POST /api/items/expense 2020-09-30T07:22:24,547Z  INFO --- [http-nio-56269-exec-2] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=Fja4rHn8Z7 userId=ojCTCbi947
+106.210.246.82 POST /api/items/expense 2020-09-30T07:21:59,319Z  INFO --- [http-nio-56269-exec-9] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=OakWyqiDYJ userId=ojCTCbi947
+106.210.246.82 DELETE /api/items/expense/E66wNqd0uL 2020-09-30T07:21:38,920Z  INFO --- [http-nio-56269-exec-7] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=E66wNqd0uL userId=ojCTCbi947
+106.210.246.82 DELETE /api/items/expense/tohNiHqCQq 2020-09-30T07:21:35,389Z  INFO --- [http-nio-56269-exec-5] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=tohNiHqCQq userId=ojCTCbi947
+106.210.246.82 DELETE /api/items/expense/Flx5gdDdYQ 2020-09-30T07:21:31,472Z  INFO --- [http-nio-56269-exec-3] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=Flx5gdDdYQ userId=ojCTCbi947
+106.210.246.82 DELETE /api/items/expense/xR34CVHKlj 2020-09-30T07:21:29,192Z  INFO --- [http-nio-56269-exec-2] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=xR34CVHKlj userId=ojCTCbi947
+106.210.246.82 DELETE /api/items/income/r5gmeatZac 2020-09-30T07:21:21,655Z  INFO --- [http-nio-56269-exec-9] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.income -- itemId=r5gmeatZac userId=ojCTCbi947
+106.210.246.82 POST /api/items/income 2020-09-30T07:21:16,165Z  INFO --- [http-nio-56269-exec-6] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=EqdiqCnElD userId=ojCTCbi947
+106.210.246.82 GET /api/items 2020-09-30T07:20:51,026Z  INFO --- [http-nio-56269-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=ojCTCbi947
+49.35.28.60 GET /api/items 2020-09-29T07:12:36,645Z  INFO --- [http-nio-16908-exec-8] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+49.35.28.60 GET /api/items 2020-09-29T07:11:47,433Z  INFO --- [http-nio-16908-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 GET /api/items 2020-09-28T16:52:59,292Z  INFO --- [http-nio-20533-exec-2] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 DELETE /api/items/expense/h5GQRC8d3S 2020-09-28T16:52:54,784Z  INFO --- [http-nio-20533-exec-10] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=h5GQRC8d3S userId=nA6QotN9tX
+103.84.81.2 POST /api/items/expense 2020-09-28T16:52:47,471Z  INFO --- [http-nio-20533-exec-8] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=GnpfzCaqJL userId=nA6QotN9tX
+103.84.81.2 GET /api/items 2020-09-28T16:52:20,748Z  INFO --- [http-nio-20533-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 POST /api/login 2020-09-28T16:52:19,762Z  INFO --- [http-nio-20533-exec-4] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=nA6QotN9tX
+49.35.114.149 GET /api/visit-github 2020-09-28T07:41:24,852Z  INFO --- [http-nio-46199-exec-3] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+106.220.160.89 POST /api/items/expense 2020-09-27T05:39:48,985Z  INFO --- [http-nio-56183-exec-8] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=xR34CVHKlj userId=ojCTCbi947
+106.220.160.89 POST /api/items/expense 2020-09-27T05:39:29,334Z  INFO --- [http-nio-56183-exec-6] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=tohNiHqCQq userId=ojCTCbi947
+106.220.160.89 POST /api/items/expense 2020-09-27T05:39:08,551Z  INFO --- [http-nio-56183-exec-4] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=Flx5gdDdYQ userId=ojCTCbi947
+106.220.160.89 POST /api/items/expense 2020-09-27T05:38:43,194Z  INFO --- [http-nio-56183-exec-2] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=E66wNqd0uL userId=ojCTCbi947
+106.220.160.89 POST /api/items/income 2020-09-27T05:37:05,358Z  INFO --- [http-nio-56183-exec-9] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=r5gmeatZac userId=ojCTCbi947
+106.220.160.89 GET /api/items 2020-09-27T05:35:32,396Z  INFO --- [http-nio-56183-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=ojCTCbi947
+106.220.160.89 POST /api/login 2020-09-27T05:35:31,619Z  INFO --- [http-nio-56183-exec-4] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=ojCTCbi947
+66.102.8.173 GET /api/email-verification 2020-09-27T05:35:17,906Z ERROR --- [http-nio-56183-exec-2] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcGFybmEucGluZ2FsZTEzQGdtYWlsLmNvbSIsImV4cCI6MTYwMjA0ODgxOCwiaWF0IjoxNjAxMTg0ODE4fQ.dcaMqNS3kJngt3ivFLc75uqxKcvrlGV6O9hldusuggQ
+66.102.8.184 GET /api/email-verification 2020-09-27T05:35:17,581Z ERROR --- [http-nio-56183-exec-1] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcGFybmEucGluZ2FsZTEzQGdtYWlsLmNvbSIsImV4cCI6MTYwMjA0ODgxOCwiaWF0IjoxNjAxMTg0ODE4fQ.dcaMqNS3kJngt3ivFLc75uqxKcvrlGV6O9hldusuggQ
+106.220.160.89 GET /api/email-verification 2020-09-27T05:35:13,104Z  INFO --- [http-nio-56183-exec-10] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=ojCTCbi947
+106.220.160.89 POST /api/login 2020-09-27T05:34:24,790Z ERROR --- [http-nio-56183-exec-9] c.b.m.e.handler.AppExceptionHandler      : EmailNotVerifiedException -- email.not.verified -- email=aparna.pingale13@gmail.com userId=ojCTCbi947
+106.220.160.89 POST /api/login 2020-09-27T05:34:15,895Z ERROR --- [http-nio-56183-exec-7] c.b.m.e.handler.AppExceptionHandler      : EmailNotVerifiedException -- email.not.verified -- email=aparna.pingale13@gmail.com userId=ojCTCbi947
+106.220.160.89 POST /api/register 2020-09-27T05:33:38,412Z  INFO --- [http-nio-56183-exec-4] c.b.m.service.impl.AuthServiceImpl       : UserRegister -- create.user -- userId=ojCTCbi947
+49.35.112.240 POST /api/register 2020-09-26T14:05:03,415Z  INFO --- [http-nio-4579-exec-10] c.b.m.service.impl.AuthServiceImpl       : UserRegisterAgain -- create.user.again -- userId=tsZGH0lvgl
+49.35.112.240 POST /api/register 2020-09-26T14:04:36,708Z  INFO --- [http-nio-4579-exec-7] c.b.m.service.impl.AuthServiceImpl       : UserRegister -- create.user -- userId=tsZGH0lvgl
+49.35.112.240 POST /api/logout 2020-09-26T14:03:40,154Z  INFO --- [http-nio-4579-exec-5] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T14:03:11,603Z  INFO --- [http-nio-4579-exec-3] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T14:03:08,841Z  INFO --- [http-nio-4579-exec-2] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/login 2020-09-26T14:03:07,975Z  INFO --- [http-nio-4579-exec-10] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T14:02:38,023Z  INFO --- [http-nio-4579-exec-8] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/login 2020-09-26T14:02:36,797Z  INFO --- [http-nio-4579-exec-6] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/logout 2020-09-26T13:57:46,812Z  INFO --- [http-nio-17469-exec-9] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:57:42,592Z  INFO --- [http-nio-17469-exec-7] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:30:24,081Z  INFO --- [http-nio-17469-exec-1] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:30:12,493Z  INFO --- [http-nio-17469-exec-10] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:30:08,449Z  INFO --- [http-nio-17469-exec-9] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/login 2020-09-26T13:30:07,710Z  INFO --- [http-nio-17469-exec-7] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:28:28,199Z  INFO --- [http-nio-17469-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:28:21,796Z  INFO --- [http-nio-17469-exec-1] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/login 2020-09-26T13:28:20,950Z  INFO --- [http-nio-17469-exec-10] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.112.240 POST /api/logout 2020-09-26T13:24:17,010Z  INFO --- [http-nio-17469-exec-6] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=AHVU6LDIjc
+49.35.112.240 GET /api/items 2020-09-26T13:24:11,861Z  INFO --- [http-nio-17469-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+106.76.78.220 POST /api/logout 2020-09-26T13:22:55,774Z  INFO --- [http-nio-17469-exec-2] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=TdirNZjDam
+106.76.78.220 GET /api/items 2020-09-26T13:22:49,879Z  INFO --- [http-nio-17469-exec-9] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=TdirNZjDam
+106.76.78.220 PUT /api/items/income/fvehCD3r5M 2020-09-26T13:19:43,117Z  INFO --- [http-nio-17469-exec-6] c.b.m.ui.controller.ItemController       : UpdateItem -- update.income -- itemId=fvehCD3r5M userId=TdirNZjDam
+106.76.78.220 GET /api/items 2020-09-26T13:18:39,157Z  INFO --- [http-nio-17469-exec-3] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=TdirNZjDam
+106.76.78.220 POST /api/items/expense 2020-09-26T13:18:18,942Z  INFO --- [http-nio-17469-exec-9] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=mF3q15SVvj userId=TdirNZjDam
+106.76.78.220 POST /api/items/income 2020-09-26T13:17:39,057Z  INFO --- [http-nio-17469-exec-7] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=fvehCD3r5M userId=TdirNZjDam
+106.76.78.220 GET /api/items 2020-09-26T13:16:20,600Z  INFO --- [http-nio-17469-exec-4] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=TdirNZjDam
+106.76.78.220 POST /api/login 2020-09-26T13:16:19,750Z  INFO --- [http-nio-17469-exec-1] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=TdirNZjDam
+106.76.78.220 POST /api/login 2020-09-26T13:16:07,115Z ERROR --- [http-nio-17469-exec-10] c.b.m.e.handler.AppExceptionHandler      : BadCredentialsException -- bad.credentials -- BadCredentialsException: Bad credentials
+106.76.78.220 POST /api/login 2020-09-26T13:15:51,602Z ERROR --- [http-nio-17469-exec-8] c.b.m.e.handler.AppExceptionHandler      : BadCredentialsException -- bad.credentials -- BadCredentialsException: Bad credentials
+66.102.8.170 GET /api/email-verification 2020-09-26T13:15:34,170Z ERROR --- [http-nio-17469-exec-6] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydXR1amFwYXRpbDIzOTZAZ21haWwuY29tIiwiZXhwIjoxNjAxOTkwMDg5LCJpYXQiOjE2MDExMjYwODl9.TYgo-UJoQrIYwEaFAOO75n5OkwxB3Y_IBDn7Ep-PSF0
+66.102.8.170 GET /api/email-verification 2020-09-26T13:15:25,613Z ERROR --- [http-nio-17469-exec-4] c.b.m.e.handler.AppExceptionHandler      : InvalidTokenException -- invalid.token -- token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydXR1amFwYXRpbDIzOTZAZ21haWwuY29tIiwiZXhwIjoxNjAxOTkwMDg5LCJpYXQiOjE2MDExMjYwODl9.TYgo-UJoQrIYwEaFAOO75n5OkwxB3Y_IBDn7Ep-PSF0
+106.76.78.220 GET /api/email-verification 2020-09-26T13:15:24,221Z  INFO --- [http-nio-17469-exec-3] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=TdirNZjDam
+106.76.78.220 POST /api/register 2020-09-26T13:14:50,020Z  INFO --- [http-nio-17469-exec-1] c.b.m.ui.controller.AuthController       : UserRegister -- create.user -- userId=TdirNZjDam
+103.84.81.2 GET /api/items 2020-09-26T12:50:49,456Z  INFO --- [http-nio-17469-exec-6] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+103.84.81.2 POST /api/login 2020-09-26T12:50:48,508Z  INFO --- [http-nio-17469-exec-4] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.117.46 POST /api/logout 2020-09-26T10:00:00,882Z  INFO --- [http-nio-43387-exec-8] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=AHVU6LDIjc
+49.35.117.46 GET /api/visit-github 2020-09-26T09:59:33,934Z  INFO --- [http-nio-43387-exec-6] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+49.35.117.46 PUT /api/items/income/XqssCtxPKY 2020-09-26T09:59:20,909Z  INFO --- [http-nio-43387-exec-4] c.b.m.ui.controller.ItemController       : UpdateItem -- update.income -- itemId=XqssCtxPKY userId=AHVU6LDIjc
+49.35.117.46 DELETE /api/items/expense/WmJVYCU5Gj 2020-09-26T09:59:00,947Z  INFO --- [http-nio-43387-exec-1] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=WmJVYCU5Gj userId=AHVU6LDIjc
+49.35.117.46 POST /api/items/expense 2020-09-26T09:58:54,232Z  INFO --- [http-nio-43387-exec-10] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=WmJVYCU5Gj userId=AHVU6LDIjc
+49.35.117.46 POST /api/items/expense 2020-09-26T09:58:33,641Z  INFO --- [http-nio-43387-exec-7] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=8oOfRKuwII userId=AHVU6LDIjc
+49.35.117.46 POST /api/items/income 2020-09-26T09:58:17,872Z  INFO --- [http-nio-43387-exec-5] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=XqssCtxPKY userId=AHVU6LDIjc
+49.35.117.46 GET /api/items 2020-09-26T09:57:56,377Z  INFO --- [http-nio-43387-exec-3] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=AHVU6LDIjc
+49.35.117.46 POST /api/login 2020-09-26T09:57:49,964Z  INFO --- [http-nio-43387-exec-2] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=AHVU6LDIjc
+49.35.117.46 GET /api/email-verification 2020-09-26T09:57:27,367Z  INFO --- [http-nio-43387-exec-9] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=AHVU6LDIjc
+49.35.117.46 POST /api/register 2020-09-26T09:57:01,537Z  INFO --- [http-nio-43387-exec-8] c.b.m.ui.controller.AuthController       : UserRegister -- create.user -- userId=AHVU6LDIjc
+49.35.117.46 GET /api/visit-github 2020-09-26T09:51:57,845Z  INFO --- [http-nio-43387-exec-3] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+103.84.81.2 POST /api/logout 2020-09-26T09:49:31,945Z  INFO --- [http-nio-43387-exec-2] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=nA6QotN9tX
+103.84.81.2 POST /api/items/expense 2020-09-26T09:49:24,127Z  INFO --- [http-nio-43387-exec-9] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=h5GQRC8d3S userId=nA6QotN9tX
+103.84.81.2 POST /api/items/expense 2020-09-26T09:48:36,498Z  INFO --- [http-nio-43387-exec-7] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=R9XvxbEfef userId=nA6QotN9tX
+103.84.81.2 POST /api/items/income 2020-09-26T09:48:03,518Z  INFO --- [http-nio-43387-exec-4] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=giVoxMNg5z userId=nA6QotN9tX
+103.84.81.2 GET /api/items 2020-09-26T09:45:04,158Z  INFO --- [http-nio-43387-exec-2] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 POST /api/login 2020-09-26T09:45:02,873Z  INFO --- [http-nio-43387-exec-9] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=nA6QotN9tX
+103.84.81.2 GET /api/delete-all-user 2020-09-26T09:37:41,467Z ERROR --- [http-nio-43387-exec-3] c.b.m.e.handler.AppExceptionHandler      : Exception -- server.error -- exception=PSQLException: ERROR: update or delete on table "user_details" violates foreign key constraint "fk4ddsqf491awftg7buw0h1qfsx" on table "expense"
+  Detail: Key (id)=(4) is still referenced from table "expense".
+103.84.81.2 GET /api/delete-all-user 2020-09-26T09:37:41,424Z ERROR --- [http-nio-43387-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : ERROR: update or delete on table "user_details" violates foreign key constraint "fk4ddsqf491awftg7buw0h1qfsx" on table "expense"
+  Detail: Key (id)=(4) is still referenced from table "expense".
+   2020-09-26T07:12:42,814Z ERROR --- [http-nio-51775-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+org.springframework.security.web.firewall.RequestRejectedException: The request was rejected because the URL contained a potentially malicious String "//"
+	at org.springframework.security.web.firewall.StrictHttpFirewall.rejectedBlacklistedUrls(StrictHttpFirewall.java:369)
+	at org.springframework.security.web.firewall.StrictHttpFirewall.getFirewalledRequest(StrictHttpFirewall.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:194)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:747)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+103.84.81.2 GET /api/visit-github 2020-09-26T07:08:48,622Z  INFO --- [http-nio-51775-exec-5] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+103.84.81.2 PUT /api/items/income/xAT7JE8N9u 2020-09-26T07:07:45,873Z  INFO --- [http-nio-51775-exec-2] c.b.m.ui.controller.ItemController       : UpdateItem -- update.income -- itemId=xAT7JE8N9u userId=1fmQioHzEq
+103.84.81.2 POST /api/items/income 2020-09-26T07:07:32,383Z  INFO --- [http-nio-51775-exec-10] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=xAT7JE8N9u userId=1fmQioHzEq
+103.84.81.2 GET /api/items 2020-09-26T07:06:47,489Z  INFO --- [http-nio-51775-exec-8] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=1fmQioHzEq
+103.84.81.2 POST /api/login 2020-09-26T07:06:45,849Z  INFO --- [http-nio-51775-exec-6] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=1fmQioHzEq
+103.84.81.2 GET /api/email-verification 2020-09-26T07:06:21,087Z  INFO --- [http-nio-51775-exec-3] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=1fmQioHzEq
+103.84.81.2 GET /api/email-verification 2020-09-26T07:06:21,092Z  INFO --- [http-nio-51775-exec-4] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=1fmQioHzEq
+103.84.81.2 POST /api/register 2020-09-26T07:04:45,476Z  INFO --- [http-nio-55754-exec-4] c.b.m.ui.controller.AuthController       : UserRegister -- create.user -- userId=1fmQioHzEq
+103.84.81.2 POST /api/logout 2020-09-26T06:29:00,129Z  INFO --- [http-nio-55754-exec-6] c.b.m.ui.controller.AuthController       : UserLogout -- user.logout -- userId=nA6QotN9tX
+103.84.81.2 GET /api/visit-github 2020-09-26T06:28:35,954Z  INFO --- [http-nio-55754-exec-4] c.b.m.ui.controller.UserController       : VisitGithub -- user.visit.github -- a=1
+103.84.81.2 DELETE /api/items/expense/aIUlpNswhj 2020-09-26T06:28:25,754Z  INFO --- [http-nio-55754-exec-2] c.b.m.ui.controller.ItemController       : DeleteItem -- delete.expense -- itemId=aIUlpNswhj userId=nA6QotN9tX
+103.84.81.2 POST /api/items/expense 2020-09-26T06:28:17,563Z  INFO --- [http-nio-55754-exec-10] c.b.m.ui.controller.ItemController       : CreateItem -- create.expense -- itemId=aIUlpNswhj userId=nA6QotN9tX
+103.84.81.2 POST /api/items/income 2020-09-26T06:27:50,292Z  INFO --- [http-nio-55754-exec-7] c.b.m.ui.controller.ItemController       : CreateItem -- create.income -- itemId=vbzajme5qK userId=nA6QotN9tX
+103.84.81.2 GET /api/items 2020-09-26T06:27:23,195Z  INFO --- [http-nio-55754-exec-5] c.b.m.ui.controller.ItemController       : GetAllItems -- all.items -- userId=nA6QotN9tX
+103.84.81.2 POST /api/login 2020-09-26T06:27:22,395Z  INFO --- [http-nio-55754-exec-3] c.b.m.ui.controller.AuthController       : UserLogin -- login.user -- userId=nA6QotN9tX
+103.84.81.2 GET /api/email-verification 2020-09-26T06:27:10,931Z  INFO --- [http-nio-55754-exec-1] c.b.m.service.impl.AuthServiceImpl       : UserVerify -- user.verify -- userId=nA6QotN9tX
+103.84.81.2 POST /api/register 2020-09-26T06:26:45,906Z  INFO --- [http-nio-55754-exec-10] c.b.m.ui.controller.AuthController       : UserRegister -- create.user -- userId=nA6QotN9tX
